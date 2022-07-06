@@ -1,0 +1,8 @@
+node_modules
+.prettierrc
+info.txt
+TO DO
+.env
+artifacts
+cache
+gas-report.txt
